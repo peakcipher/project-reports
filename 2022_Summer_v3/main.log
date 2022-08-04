@@ -1,0 +1,448 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.17)  31 JUL 2022 12:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks17
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count272
+\LTcapwidth=\dimen150
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count273
+\LT@rows=\count274
+\c@LT@tables=\count275
+\c@LT@chunks=\count276
+\LT@p@ftn=\toks22
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen151
+\epsfysize=\dimen152
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count277
+\float@exts=\toks23
+\float@box=\box58
+\@float@everytoks=\toks24
+\@floatcapt=\box59
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count278
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box60
+\rot@mess@toks=\toks25
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count279
+\c@@ppsavesec=\count280
+\c@@ppsaveapp=\count281
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/06/26 3.77 The Babel package
+\babel@savecnt=\count282
+\U@D=\dimen153
+\l@unhyphenated=\language79
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count283
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
+\ttl@toksa=\toks26
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box62
+) (main.aux (title.aux) (dedicate.aux) (declaration.aux)
+(acknowledgement.aux) (abstract.aux) (chap1.aux) (chap2.aux) (chap3.aux)
+(chap4.aux) (reference.aux) (app1.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen159
+\scratchbox=\box63
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen160
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `title.aux'.
+
+ (title.tex
+<logo1.jpg, id=1, 493.6041pt x 518.4168pt>
+File: logo1.jpg Graphic file (type jpg)
+<use logo1.jpg>
+Package pdftex.def Info: logo1.jpg  used on input line 31.
+(pdftex.def)             Requested size: 98.71906pt x 103.68152pt.
+) [1
+
+
+{C:/Users/peakc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo1.jpg>
+]
+\openout2 = `dedicate.aux'.
+
+ (dedicate.tex) [1
+
+
+
+]
+\openout2 = `declaration.aux'.
+
+ (declaration.tex) [2
+
+
+
+]
+\openout2 = `acknowledgement.aux'.
+
+
+(acknowledgement.tex) [3
+
+
+
+]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex) [4
+
+
+
+] (main.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(C:\Users\peakc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+[5
+
+
+
+
+] (main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [6
+
+
+] (main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+ [7
+
+
+]
+\openout2 = `chap1.aux'.
+
+ (chap1.tex
+Chapter 1.
+) [1
+
+
+
+]
+\openout2 = `chap2.aux'.
+
+ (chap2.tex
+Chapter 2.
+) [2
+
+
+
+
+]
+\openout2 = `chap3.aux'.
+
+ (chap3.tex
+Chapter 3.
+) [3
+
+
+
+
+]
+\openout2 = `chap4.aux'.
+
+ (chap4.tex
+Chapter 4.
+) [4
+
+
+
+
+]
+\openout2 = `reference.aux'.
+
+ (reference.tex [5
+
+
+
+
+]
+Overfull \hbox (0.7783pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/12 U.S. En-vi-ron-men-tal Pro-tec-tion Agency, The En-vi-ron-men
+-tal Pro-tec-tion Agency's
+ []
+
+) [6]
+\openout2 = `app1.aux'.
+
+ (app1.tex
+Appendix A.
+) [7
+
+
+
+
+] (main.aux (title.aux) (dedicate.aux) (declaration.aux)
+(acknowledgement.aux) (abstract.aux) (chap1.aux) (chap2.aux) (chap3.aux)
+(chap4.aux) (reference.aux) (app1.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4925 strings out of 478338
+ 82162 string characters out of 2836700
+ 391816 words of memory out of 3000000
+ 23217 multiletter control sequences out of 15000+600000
+ 476734 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 54i,11n,62p,876b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/peakc/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/peakc/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/peakc/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+peakc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (15 pages, 530925 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
