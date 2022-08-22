@@ -1,0 +1,1236 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{birkinshaw_sunyaev-zeldovich_1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d42d6f337ce9df16b2f67ceb0a5f63cd}{%
+           family={Birkinshaw},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \strng{fullhash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \strng{bibnamehash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \strng{authorbibnamehash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \strng{authornamehash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \strng{authorfullhash}{d42d6f337ce9df16b2f67ceb0a5f63cd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Sunyaev-Zel'dovich effect causes a change in the apparent brightness of the Cosmic Microwave Background Radiation towards a cluster of galaxies or any other reservoir of hot plasma. Measurements of the effect provide distinctly different information about cluster properties than X-ray imaging data, while combining X-ray and Sunyaev-Zel'dovich effect data leads to new insights into the structures of cluster atmospheres. The effect is redshift-independent, and so provides a unique probe of the structure of the Universe on the largest scales. The present review discusses the theory of the Sunyaev-Zel'dovich effect and collects published results for many clusters, presents the overall conclusions that may be drawn from the detections so far, and discusses the prospects for future research on the Sunyaev-Zel'dovich effects.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{03701573}
+      \field{journaltitle}{Physics Reports}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{The Sunyaev-Zel'dovich Effect}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{310}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{97\bibrangedash 195}
+      \range{pages}{99}
+      \verb{doi}
+      \verb 10.1016/S0370-1573(98)00080-5
+      \endverb
+      \verb{eprint}
+      \verb astro-ph/9808050
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\98IIXL57\\Birkinshaw - 1999 - The Sunyaev-Zel'dovich Effect.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\CZ9HH77M\\9808050.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/astro-ph/9808050
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/astro-ph/9808050
+      \endverb
+      \keyw{Astrophysics}
+    \endentry
+    \entry{emritte_polarization_2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25e360c93bbb0af8fa4a9391fbc48673}{%
+           family={Emritte},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e5194ecbbc249a649a6c82ca9d46136}{%
+           family={Colafrancesco},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16dac46b7a20ce17752d2ecf3841adf6}{%
+           family={Marchegiani},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f1aafa1c11871d8b1b168bacb74922d}
+      \strng{fullhash}{07f47e67889a13e99b44abc85907f1a1}
+      \strng{bibnamehash}{07f47e67889a13e99b44abc85907f1a1}
+      \strng{authorbibnamehash}{07f47e67889a13e99b44abc85907f1a1}
+      \strng{authornamehash}{3f1aafa1c11871d8b1b168bacb74922d}
+      \strng{authorfullhash}{07f47e67889a13e99b44abc85907f1a1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{[Abridged] Inverse Compton scattering of {CMB} fluctuations off cosmic electron plasma generates a polarization of the associated Sunyaev-Zel'dovich ({SZ}) effect. This signal has been studied so far mostly in the non-relativistic regime and for a thermal electron population and, as such, has limited astrophysical applications. Partial attempts to extend this calculation for a thermal electron plasma in the relativistic regime have been done but cannot be applied to a general relativistic electron distribution. Here we derive a general form of the {SZ} effect polarization valid in the full relativistic approach for both thermal and non-thermal electron plasmas, as well as for a generic combination of various electron population co-spatially distributed in the environments of galaxy clusters or radiogalaxy lobes. We derive the spectral shape of the Stokes parameters induced by the {IC} scattering of every {CMB} multipole, focusing on the {CMB} quadrupole and octupole that provide the largest detectable signals in galaxy clusters. We found that the {CMB} quadrupole induced Stoke parameter Q is always positive with a maximum amplitude at 216 {GHz} which increases slightly with increasing cluster temperature. The {CMB} octupole induced Q spectrum shows, instead, a cross-over frequency which depends on the cluster electron temperature, or on the minimum momentum p\_1 as well as on the power-law spectral index of a non-thermal electron population. We discuss some possibilities to disentangle the quadrupole-induced Q spectrum from the octupole-induced one which allow to measure these quantities through the {SZ} effect polarization. We finally apply our model to the realistic case of the Bullet cluster and derive the visibility windows of the total, quandrupole-induced and octupole-induced Stoke parameter Q in the frequency ranges accessible to {SKA}, {ALMA}, {MILLIMETRON} and {CORE}++ experiments.}
+      \field{day}{19}
+      \field{eprinttype}{arxiv}
+      \field{issn}{1475-7516}
+      \field{journaltitle}{Journal of Cosmology and Astroparticle Physics}
+      \field{month}{7}
+      \field{number}{7}
+      \field{shortjournal}{J. Cosmol. Astropart. Phys.}
+      \field{shorttitle}{Polarization of the Sunyaev-Zel'dovich effect}
+      \field{title}{Polarization of the Sunyaev-Zel'dovich effect: relativistic imprint of thermal and non-thermal plasma}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{2016}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{031\bibrangedash 031}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1475-7516/2016/07/031
+      \endverb
+      \verb{eprint}
+      \verb 1605.08333 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\KV4RSMXW\\Emritte et al. - 2016 - Polarization of the Sunyaev-Zel'dovich effect rel.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\JCKKANJM\\1605.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1605.08333
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1605.08333
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{fielding_impact_2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9644f195ae79cc6688127cfa9e77a3b4}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={Drummond},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a5b25589c83bf39f1933f42d3c1e4cb}{%
+           family={Quataert},
+           familyi={Q\bibinitperiod},
+           given={Eliot},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1b43d561635ecd74d2f444711150858}{%
+           family={{McCourt}},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47ce5f68b0794fb7f711d6a97a2b1ed8}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Todd\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37606c1d8d6072af3f0ab1b1631b5fa2}
+      \strng{fullhash}{60475271d8cdf5388d8011a6dd1ca134}
+      \strng{bibnamehash}{60475271d8cdf5388d8011a6dd1ca134}
+      \strng{authorbibnamehash}{60475271d8cdf5388d8011a6dd1ca134}
+      \strng{authornamehash}{37606c1d8d6072af3f0ab1b1631b5fa2}
+      \strng{authorfullhash}{60475271d8cdf5388d8011a6dd1ca134}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We use idealized 3D hydrodynamic simulations to study the dynamics and thermal structure of the circumgalactic medium ({CGM}). Our simulations quantify the role of cooling, stellar feedback driven galactic winds and cosmological gas accretion in setting the properties of the {CGM} in dark matter haloes ranging from 1011 to 1012 M . Our simulations support a conceptual picture in which the properties of the {CGM}, and the key physics governing it, change markedly near a critical halo mass of Mcrit ≈ 1011.5 M . As in calculations without stellar feedback, above Mcrit halo gas is supported by thermal pressure created in the virial shock. The thermal properties at small radii are regulated by feedback triggered when tcool/tff 10 in the hot gas. Below Mcrit, however, there is no thermally supported halo and selfregulation at tcool/tff ∼ 10 does not apply. Instead, the gas is out of hydrostatic equilibrium and largely supported against gravity by bulk ﬂows (turbulence and coherent inﬂow/outﬂow) arising from the interaction between cosmological gas inﬂow and outﬂowing galactic winds. In these lower mass haloes, the phase structure depends sensitively on the outﬂows’ energy per unit mass and mass-loading, which may allow measurements of the {CGM} thermal state to constrain the nature of galactic winds. Our simulations account for some of the properties of the multiphase halo gas inferred from quasar absorption line observations, including the presence of signiﬁcant mass at a wide range of temperatures, and the characteristic O {VI} and C {IV} column densities and kinematics. However, we underpredict the neutral hydrogen content of the z ∼ 0 {CGM}.}
+      \field{day}{1}
+      \field{issn}{0035-8711, 1365-2966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{4}
+      \field{shortjournal}{Mon. Not. R. Astron. Soc.}
+      \field{title}{The impact of star formation feedback on the circumgalactic medium}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{466}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3810\bibrangedash 3826}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1093/mnras/stw3326
+      \endverb
+      \verb{file}
+      \verb Fielding et al. - 2017 - The impact of star formation feedback on the circu.pdf:C\:\\Users\\peakc\\Zotero\\storage\\UZSR4222\\Fielding et al. - 2017 - The impact of star formation feedback on the circu.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw3326
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw3326
+      \endverb
+    \endentry
+    \entry{noauthor_friends--friends_nodate}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Friends-Of-Friends Algorithm — {SWIFT}: {SPH} With Inter-dependent Fine-grained Tasking 0.9.0 documentation}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Friends-Of-Friends Algorithm — SWIFT\: SPH With Inter-dependent Fine-grained Tasking 0.9.0 documentation:C\:\\Users\\peakc\\Zotero\\storage\\3Y58SVEC\\algorithm_description.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://swift.dur.ac.uk/docs/FriendsOfFriends/algorithm_description.html
+      \endverb
+      \verb{url}
+      \verb https://swift.dur.ac.uk/docs/FriendsOfFriends/algorithm_description.html
+      \endverb
+    \endentry
+    \entry{haider_large-scale_2016}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=6a6b3c98a5b178b8c8b939363cd3fdde}{%
+           family={Haider},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad3fb09797dab2a416722df55653384a}{%
+           family={Steinhauser},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b88608a3cf44fea67e6bbcabd97914be}{%
+           family={Vogelsberger},
+           familyi={V\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb3613dbb2c279ec8a0400477e49de1a}{%
+           family={Genel},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d14f84c0b1740881731aadf0b220bb7}{%
+           family={Springel},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a9472cab299bcfa0f98ad47022cfb02}{%
+           family={Torrey},
+           familyi={T\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2d60675539f9efe0bcd81b1cce60910}{%
+           family={Hernquist},
+           familyi={H\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04fbcb9fc1a8ce9c13237a7bb68d6b6c}
+      \strng{fullhash}{a88f2537567d6391f3bfaf88c2724000}
+      \strng{bibnamehash}{a88f2537567d6391f3bfaf88c2724000}
+      \strng{authorbibnamehash}{a88f2537567d6391f3bfaf88c2724000}
+      \strng{authornamehash}{04fbcb9fc1a8ce9c13237a7bb68d6b6c}
+      \strng{authorfullhash}{a88f2537567d6391f3bfaf88c2724000}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Observations at low redshifts thus far fail to account for all of the baryons expected in the Universe according to cosmological constraints. A large fraction of the baryons presumably resides in a thin and warm–hot medium between the galaxies, where they are difﬁcult to observe due to their low densities and high temperatures. Cosmological simulations of structure formation can be used to verify this picture and provide quantitative predictions for the distribution of mass in different large-scale structure components. Here we study the distribution of baryons and dark matter at different epochs using data from the Illustris simulation. We identify regions of different dark matter density with the primary constituents of large-scale structure, allowing us to measure mass and volume of haloes, ﬁlaments and voids. At redshift zero, we ﬁnd that 49 per cent of the dark matter and 23 per cent of the baryons are within haloes more massive than the resolution limit of 2 × 108 M . The ﬁlaments of the cosmic web host a further 45 per cent of the dark matter and 46 per cent of the baryons. The remaining 31 per cent of the baryons reside in voids. The majority of these baryons have been transported there through active galactic nuclei feedback. We note that the feedback model of Illustris is too strong for heavy haloes, therefore it is likely that we are overestimating this amount. Categorizing the baryons according to their density and temperature, we ﬁnd that 17.8 per cent of them are in a condensed state, 21.6 per cent are present as cold, diffuse gas, and 53.9 per cent are found in the state of a warm–hot intergalactic medium.}
+      \field{day}{11}
+      \field{issn}{0035-8711, 1365-2966}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{3}
+      \field{shortjournal}{Mon. Not. R. Astron. Soc.}
+      \field{title}{Large-scale mass distribution in the Illustris simulation}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{457}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3024\bibrangedash 3035}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1093/mnras/stw077
+      \endverb
+      \verb{file}
+      \verb Haider et al. - 2016 - Large-scale mass distribution in the Illustris sim.pdf:C\:\\Users\\peakc\\Zotero\\storage\\JKV9WV4X\\Haider et al. - 2016 - Large-scale mass distribution in the Illustris sim.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw077
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw077
+      \endverb
+    \endentry
+    \entry{hogg_distance_2000}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a78b8e911ca3f3ee978a4dfb1e7c1c90}{%
+           family={Hogg},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{fullhash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{bibnamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authorbibnamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authornamehash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \strng{authorfullhash}{a78b8e911ca3f3ee978a4dfb1e7c1c90}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Formulae for the line-of-sight and transverse comoving distances, proper motion distance, angular diameter distance, luminosity distance, k-correction, distance modulus, comoving volume, lookback time, age, and object intersection probability are all given, some with justifications. Some attempt is made to rationalize disparate terminologies, or at least abuse bad usage.}
+      \field{day}{15}
+      \field{eprinttype}{arxiv}
+      \field{month}{12}
+      \field{note}{type: article}
+      \field{number}{{arXiv}:astro-ph/9905116}
+      \field{title}{Distance measures in cosmology}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{eprint}
+      \verb astro-ph/9905116
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\XJZX9ZRP\\Hogg - 2000 - Distance measures in cosmology.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\IUIMPDQ7\\9905116.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/astro-ph/9905116
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/astro-ph/9905116
+      \endverb
+      \keyw{Astrophysics}
+    \endentry
+    \entry{hurier_milca_2013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fd20c136f43100761284b6d385b91f2e}{%
+           family={Hurier},
+           familyi={H\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c5adb4fadad9c100be40f563583c09c}{%
+           family={Macías-Pérez},
+           familyi={M\bibinithyphendelim P\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae1b5f4b830c107568658bfa57daa38d}{%
+           family={Hildebrandt},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60808265bdc4eb9084b187ef6cd8ea6f}
+      \strng{fullhash}{536685f3fa11866a6490a732378d09aa}
+      \strng{bibnamehash}{536685f3fa11866a6490a732378d09aa}
+      \strng{authorbibnamehash}{536685f3fa11866a6490a732378d09aa}
+      \strng{authornamehash}{60808265bdc4eb9084b187ef6cd8ea6f}
+      \strng{authorfullhash}{536685f3fa11866a6490a732378d09aa}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This analysis of current cosmic microwave background ({CMB}) experiments is based on the interpretation of multifrequency sky maps in terms of diﬀerent astrophysical components and it requires speciﬁcally tailored, component separation algorithms. In this context, internal linear combination ({ILC}) methods have been extensively used to extract the {CMB} emission from the {WMAP} multifrequency data. We present here a modiﬁed internal linear component algorithm ({MILCA}) that generalizes the {ILC} approach to the case of multiple astrophysical components for which the electromagnetic spectrum is known. In addition, {MILCA} corrects for the intrinsic noise bias in the standard {ILC} approach and extends it to a hybrid space-frequency representation of the data. It also allows us to use external templates to minimize the contribution of extra components but still using only a linear combination of the input data. We applied {MILCA} to simulations of the Planck satellite data at the frequency bands from 100 {GHz} to 857 {GHz}. We explore the possibility of reconstructing the Galactic molecular {CO} emission and the thermal Sunyaev-Zeldovich eﬀect from the Planck maps. We conclude that {MILCA} is able to accurately estimate those emissions, and it has been successfully used for this purpose within the Planck collaboration.}
+      \field{issn}{0004-6361, 1432-0746}
+      \field{journaltitle}{Astronomy \& Astrophysics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shortjournal}{A\&A}
+      \field{title}{{MILCA}, a modified internal linear combination algorithm to extract astrophysical emissions from multifrequency sky maps}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{558}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{A118}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/201321891
+      \endverb
+      \verb{file}
+      \verb Hurier et al. - 2013 - MILCA, a modified internal linear combination algo.pdf:C\:\\Users\\peakc\\Zotero\\storage\\MRNRGZ4E\\Hurier et al. - 2013 - MILCA, a modified internal linear combination algo.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.aanda.org/10.1051/0004-6361/201321891
+      \endverb
+      \verb{url}
+      \verb http://www.aanda.org/10.1051/0004-6361/201321891
+      \endverb
+    \endentry
+    \entry{kreckel_void_2012}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=fa0c039a4a30e6c81f3c9ce1e9146644}{%
+           family={Kreckel},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7fdef6ef88ebb7ba1c063c03c53c1fa}{%
+           family={Platen},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3eccadc4a3956e9997ace89775968647}{%
+           family={Aragón-Calvo},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9db3e410c580a244880a7ce4067407a4}{%
+           family={Gorkom},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=0437f297c96b2f19066e9832993b6c28}{%
+           family={Weygaert},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=dfc37595130f6ffabc44fe70773d5075}{%
+           family={Hulst},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=218308a627edbe90bdda534529f4d504}{%
+           family={Beygu},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af3a7442143e83b859298ddd00071bfb}
+      \strng{fullhash}{cf4c34658944dc8801db737c6292f13e}
+      \strng{bibnamehash}{cf4c34658944dc8801db737c6292f13e}
+      \strng{authorbibnamehash}{cf4c34658944dc8801db737c6292f13e}
+      \strng{authornamehash}{af3a7442143e83b859298ddd00071bfb}
+      \strng{authorfullhash}{cf4c34658944dc8801db737c6292f13e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We have carefully selected a sample of 60 galaxies that reside in the deepest underdensities of geometrically identified voids within the {SDSS}. {HI} imaging of 55 galaxies with the {WSRT} reveals morphological and kinematic signatures of ongoing interactions and gas accretion. We probe a total volume of 485 Mpc{\textasciicircum}3 within the voids, with an angular resolution of 8 kpc at an average distance of 85 Mpc. We reach column density sensitivities of 5 x 10{\textasciicircum}19 cm{\textasciicircum}-2, corresponding to an {HI} mass limit of 3 x 10{\textasciicircum}8 M\_sun. We detect {HI} in 41 galaxies, with total masses ranging from 1.7 x 10{\textasciicircum}8 to 5.5 x 10{\textasciicircum}9 M\_sun. The upper limits on the 14 non-detections are not inconsistent with their luminosities, given their expected {HI} mass to light ratios. We find that the void galaxies are generally gas rich, low luminosity, blue disk galaxies, with optical and {HI} properties that are not unusual for their luminosity and morphology. The sample spans a range of absolute magnitudes (-16.1 {>} M\_r {>} -20.4) and colors (0.06 {<} g-r {<} 0.87), and includes disk and irregular galaxies. We also identify three as early type galaxies, all of which are not detected in {HI}. All galaxies have stellar masses less than 3 x 10{\textasciicircum}10 M\_sun, and many have kinematic and morphological signs of ongoing gas accretion, suggesting that the void galaxy population is still in the process of assembling. The small scale clustering in the void, within 600 kpc and 200 km/s, is similar to that in higher density regions, and we identify 18 {HI} rich neighboring galaxies in the voids. Most are within 100 kpc and 100 km/s of the targeted galaxy, and we find no significant population of {HI} rich low luminosity galaxies filling the voids, contrary to what is predicted by simulations.}
+      \field{day}{1}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0004-6256, 1538-3881}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shortjournal}{The Astronomical Journal}
+      \field{shorttitle}{The Void Galaxy Survey}
+      \field{title}{The Void Galaxy Survey: Optical Properties and H I Morphology and Kinematics}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{144}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{16}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0004-6256/144/1/16
+      \endverb
+      \verb{eprint}
+      \verb 1204.5185 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\YVET9ILI\\Kreckel et al. - 2012 - The Void Galaxy Survey Optical Properties and H I.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\LIQ86NUX\\1204.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1204.5185
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1204.5185
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{luzzi_redshift_2009}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=08472881a53e2008c69f8d23835bcd3d}{%
+           family={Luzzi},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75d3864d2664dfbf3b3f855b72e98506}{%
+           family={Shimon},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d58a36c7a35df9cb926aa88fa37e77cb}{%
+           family={Lamagna},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e02af27c0422c878d5f00abe05731802}{%
+           family={Rephaeli},
+           familyi={R\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bc4d773568ee42450c681e1ba092010}{%
+           family={De\bibnamedelima Petris},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64233eace1743836a23392faf39d237d}{%
+           family={Conte},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c353f6db8dbc641700be9770f79febe}{%
+           family={De\bibnamedelima Gregori},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac8647dee2732629e5993cd9cdd32575}{%
+           family={Battistelli},
+           familyi={B\bibinitperiod},
+           given={E.\bibnamedelimi S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4beccda78555d8d76ef7f893839658c}
+      \strng{fullhash}{db08c20c95e25987aae2b0d45f6a89df}
+      \strng{bibnamehash}{db08c20c95e25987aae2b0d45f6a89df}
+      \strng{authorbibnamehash}{db08c20c95e25987aae2b0d45f6a89df}
+      \strng{authornamehash}{a4beccda78555d8d76ef7f893839658c}
+      \strng{authorfullhash}{db08c20c95e25987aae2b0d45f6a89df}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{issn}{0004-637X, 1538-4357}
+      \field{journaltitle}{The Astrophysical Journal}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{2}
+      \field{shortjournal}{{ApJ}}
+      \field{title}{{REDSHIFT} {DEPENDENCE} {OF} {THE} {COSMIC} {MICROWAVE} {BACKGROUND} {TEMPERATURE} {FROM} {SUNYAEV}-{ZELDOVICH} {MEASUREMENTS}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{705}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1122\bibrangedash 1128}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1088/0004-637X/705/2/1122
+      \endverb
+      \verb{file}
+      \verb Luzzi et al. - 2009 - REDSHIFT DEPENDENCE OF THE COSMIC MICROWAVE BACKGR.pdf:C\:\\Users\\peakc\\Zotero\\storage\\5NLU8W94\\Luzzi et al. - 2009 - REDSHIFT DEPENDENCE OF THE COSMIC MICROWAVE BACKGR.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/0004-637X/705/2/1122
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/0004-637X/705/2/1122
+      \endverb
+    \endentry
+    \entry{pan_cosmic_2012}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f9553fb1f3dfcc8559e92af72450fce6}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Danny\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40afa412edd0019374fa3888a2177995}{%
+           family={Vogeley},
+           familyi={V\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16f94b87bef0198201b97d348d729345}{%
+           family={Hoyle},
+           familyi={H\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=550797baaad025b4e231e61a55f9651b}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Yun-Young},
+           giveni={Y\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84ec58922d6802b1527ec76928aa5a4b}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Changbom},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{46f91bd9a78ac27ee667047d4f067eb7}
+      \strng{fullhash}{88590271c3f7decec64c8355b9d011a8}
+      \strng{bibnamehash}{88590271c3f7decec64c8355b9d011a8}
+      \strng{authorbibnamehash}{88590271c3f7decec64c8355b9d011a8}
+      \strng{authornamehash}{46f91bd9a78ac27ee667047d4f067eb7}
+      \strng{authorfullhash}{88590271c3f7decec64c8355b9d011a8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We study the distribution of cosmic voids and void galaxies using Sloan Digital Sky Survey Data Release 7 ({SDSS} {DR}7). Using the {VoidFinder} algorithm based on the original {VoidFinder} method devised by El-Ad \& Piran and implemented by Hoyle \& Vogeley, we identify 1054 statistically signiﬁcant voids in the Northern galactic hemisphere with radii {>}10 h−1 Mpc. The ﬁlling factor of voids in the sample volume is 62 per cent. The largest void is just over 30 h−1 Mpc in effective radius. The median effective radius is 17 h−1 Mpc. The voids are found to be signiﬁcantly underdense, with density contrast δ {<} −0.85 at the edges of the voids. The radial-density proﬁles of these voids are similar to predictions of dynamically distinct underdensities in gravitational theory. We ﬁnd 8046 galaxies brighter than Mr = −20.09 within the voids, accounting for 7 per cent of the galaxies. We compare the results of {VoidFinder} on {SDSS} {DR}7 to mock catalogues generated from a smoothed particle hydrodynamics ({SPH}) halo model simulation as well as other cold dark matter ( {CDM}) simulations and ﬁnd similar void fractions and void sizes in the data and simulations. This catalogue is made publicly available at http://www.physics.drexel.edu/{\textasciitilde}pan/{VoidCatalog} for download.}
+      \field{day}{1}
+      \field{issn}{00358711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{shorttitle}{Cosmic voids in Sloan Digital Sky Survey Data Release 7}
+      \field{title}{Cosmic voids in Sloan Digital Sky Survey Data Release 7: \textit{Cosmic voids in Sloan Digital Sky Survey Data Release 7}}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{421}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{926\bibrangedash 934}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2011.20197.x
+      \endverb
+      \verb{file}
+      \verb Cosmic voids in Sloan Digital Sky Survey Data Release 7\: <i>Cosmic voids in Sloan Digital Sky Survey Data Release 7</i>:C\:\\Users\\peakc\\Zotero\\storage\\VY4TS28T\\pan2012.pdf.pdf:application/pdf;Pan et al. - 2012 - Cosmic voids in Sloan Digital Sky Survey Data Rele.pdf:C\:\\Users\\peakc\\Zotero\\storage\\AYZ7LL3H\\Pan et al. - 2012 - Cosmic voids in Sloan Digital Sky Survey Data Rele.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2011.20197.x
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2011.20197.x
+      \endverb
+    \endentry
+    \entry{remazeilles_cmb_2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b6999de1986ead39a53fe5dfdd9620fd}{%
+           family={Remazeilles},
+           familyi={R\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1935252654ed021fcd63fae513abd01}{%
+           family={Delabrouille},
+           familyi={D\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ab68cfa408885fe52dd255419595ba9}{%
+           family={Cardoso},
+           familyi={C\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ea38229c23228625b71aefc580969fa}
+      \strng{fullhash}{6c07f53a5ea44bb2a6ba90f2145ca852}
+      \strng{bibnamehash}{6c07f53a5ea44bb2a6ba90f2145ca852}
+      \strng{authorbibnamehash}{6c07f53a5ea44bb2a6ba90f2145ca852}
+      \strng{authornamehash}{4ea38229c23228625b71aefc580969fa}
+      \strng{authorfullhash}{6c07f53a5ea44bb2a6ba90f2145ca852}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The ‘Internal Linear Combination’ ({ILC}) component separation method has been extensively used on the data of the Wilkinson Microwave Anisotropy Probe ({WMAP}) space mission, to extract a single component, the cosmic microwave background ({CMB}), from the {WMAP} multifrequency data. We extend the {ILC} approach for reconstructing millimetre astrophysical emissions beyond the {CMB} alone. In particular, we construct a constrained {ILC} to extract maps of both the {CMB} and the thermal Sunyaev–Zeldovich ({SZ}) effect, with vanishing contamination from the other. The performance of the constrained {ILC} is tested on simulations of Planck mission observations, for which we successfully reconstruct independent estimates of the {CMB} and of the thermal {SZ}.}
+      \field{day}{1}
+      \field{issn}{00358711}
+      \field{journaltitle}{Monthly Notices of the Royal Astronomical Society}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{4}
+      \field{shorttitle}{{CMB} and {SZ} effect separation with constrained Internal Linear Combinations}
+      \field{title}{{CMB} and {SZ} effect separation with constrained Internal Linear Combinations: {CMB} and {SZ} separation with constrained {ILC}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{410}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2481\bibrangedash 2487}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1111/j.1365-2966.2010.17624.x
+      \endverb
+      \verb{file}
+      \verb Remazeilles et al. - 2011 - CMB and SZ effect separation with constrained Inte.pdf:C\:\\Users\\peakc\\Zotero\\storage\\9EK87L3A\\Remazeilles et al. - 2011 - CMB and SZ effect separation with constrained Inte.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2010.17624.x
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/mnras/article-lookup/doi/10.1111/j.1365-2966.2010.17624.x
+      \endverb
+    \endentry
+    \entry{singari_detection_nodate}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=72b8272f619f7d0f018f5fa9ccfc0503}{%
+           family={Singari},
+           familyi={S\bibinitperiod},
+           given={Baibhav},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b830c5ddea068784bc8a632d42aec2a}{%
+           family={Ghosh},
+           familyi={G\bibinitperiod},
+           given={Tuhin},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fa97b2fbdba4c1ee8f916bef3d9a516}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Mousumi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae10314f20038dd818fde579ea9aa80f}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yin-Zhe},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81871553bc1ed85c0e3923ab674b476c}{%
+           family={Tanimura},
+           familyi={T\bibinitperiod},
+           given={Hideki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7264160c9cfc81726f663013823041f5}
+      \strng{fullhash}{db1b9624dad843962b80dfb37245ad01}
+      \strng{bibnamehash}{db1b9624dad843962b80dfb37245ad01}
+      \strng{authorbibnamehash}{db1b9624dad843962b80dfb37245ad01}
+      \strng{authornamehash}{7264160c9cfc81726f663013823041f5}
+      \strng{authorfullhash}{db1b9624dad843962b80dfb37245ad01}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although voids are the most underdense regions of our Universe, they contain a population of galaxies that are predominantly low mass, star-forming galaxies. The isolated nature of void galaxies makes them ideal for estimating the thermal Sunyaev-Zel’dovich ({tSZ}) effect from star formation as cluster environments are avoided. Although the {tSZ} effect is a small ﬂuctuation on the cosmic microwave background, it can be used to detect hot gas around massive, bright galaxies as well as clusters mainly because stacking a large number of sources makes the signal much stronger. In this study we use a sample of ∼ 20, 000 void galaxies from {SDSS} {DR}12 that have masses {>} 109 M to estimate the {tSZ} effect due to star formation in low mass, star-forming galaxies. We report an excess {tSZ} signal with a signiﬁcance of 3.5σ up to a radial distance of 16 from the Planck-derived {SZ} maps. The origin of the emission is the hot circum-galactic medium around the galaxies. But unlike the {tSZ} signal detected from massive galaxies, the {tSZ} signal from low mass star-forming galaxies is mainly due to stellar feedback and not active galactic nuclei ({AGN}) feedback as in massive galaxies.}
+      \field{langid}{english}
+      \field{title}{{DETECTION} {OF} {THE} {THERMAL} {SUNYAEV}-{ZEL}’{DOVICH} {EFFECT} {FROM} {VOIDS} {IN} {THE} {LARGE} {SCALE} {STRUCTURE}}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{file}
+      \verb void_galaxies.pdf:C\:\\Users\\peakc\\Documents\\Projects\\t.ghosh\\void_galaxies.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{sunyaev_small-scale_1970}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=311a8d6482967758916f03936c9e4cff}{%
+           family={Sunyaev},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa1c4ad8d063a93779bed0bd13a26e19}{%
+           family={Zeldovich},
+           familyi={Z\bibinitperiod},
+           given={Ya.\bibnamedelimi B.},
+           giveni={Y\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \strng{fullhash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \strng{bibnamehash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \strng{authorbibnamehash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \strng{authornamehash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \strng{authorfullhash}{7a9761da34dab44a4c4d2fbb2b4b11d1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Perturbations of the matter density in a homogeneous and isotropic cosmological model which leads to the formation of galaxies should, at later stages of evolution, cause spatial fluctuations of relic radiation. Silk assumed that an adiabatic connection existedbetween the density perturbations at the moment of recombination of the initial plasma and fluctuations of the observed temperature of radiation 6T/T= {OQm}/3Qm.It is shown in this article that such a simple connection is not applicable due to: (1) The long time of recombination; (2) The fact that when regions with M {\textasciitilde} 1015M 0 become transparent for radiation, the optical depth to the observer is still large due to Thompson scattering; (3) The spasmodic increase of 6Qr{\textasciitilde}/Qmin recombination. As a result the expected temperature fluctuations of relic radiation should be smaller than adiabatic fluctuations. In this article the value of c{\textasciitilde}T/Tarising from scattering of radiation on moving electrons is calculated; the velocity field is generated by adiabatic or entropy density perturbations. Fluctuations of the relic radiation due to secondary heating of the intergalactic gas are also estimated. A detailed investigation of the spectrum of fluctuations may, in principle, lead to an understanding of the nature of initial density perturbations since a distinct periodic dependence of the spectral density of perturbations on wavelength (mass) is peculiar to adiabatic perturbations. Practical observations are quite difficult due to the smallness of the effects and the presence of fluctuations connected with discrete sources of radio emission.}
+      \field{issn}{0004-640X, 1572-946X}
+      \field{journaltitle}{Astrophysics and Space Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shortjournal}{Astrophys Space Sci}
+      \field{title}{Small-scale fluctuations of relic radiation}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{7}
+      \field{year}{1970}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 19}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/BF00653471
+      \endverb
+      \verb{file}
+      \verb Sunyaev and Zeldovich - 1970 - Small-scale fluctuations of relic radiation.pdf:C\:\\Users\\peakc\\Zotero\\storage\\GHL8HJGD\\Sunyaev and Zeldovich - 1970 - Small-scale fluctuations of relic radiation.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/10.1007/BF00653471
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/10.1007/BF00653471
+      \endverb
+    \endentry
+    \entry{tanimura_detection_2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=0bb818e938c73e6c49a14244dc521205}{%
+           family={Tanimura},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbeb63670fb0a38482c74ddafc346179}{%
+           family={Aghanim},
+           familyi={A\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5ff5c18114523f1adcf01a6bb0696b3}{%
+           family={Douspis},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c539e6064c242f9da9278ae77f7db276}{%
+           family={Beelen},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d059b8767eab411b307eb21984cb5d2}{%
+           family={Bonjean},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f82c7c80ba137888f554489c6e21a63}
+      \strng{fullhash}{761d679de6893289e411b7b26344c4f1}
+      \strng{bibnamehash}{761d679de6893289e411b7b26344c4f1}
+      \strng{authorbibnamehash}{761d679de6893289e411b7b26344c4f1}
+      \strng{authornamehash}{1f82c7c80ba137888f554489c6e21a63}
+      \strng{authorfullhash}{761d679de6893289e411b7b26344c4f1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Using a thermal Sunyaev-Zel'dovich ({tSZ}) signal, we search for hot gas in superclusters identified using the Sloan Digital Sky Survey Data Release 7 ({SDSS}/{DR}7) galaxies. We stack a Comptonization y map produced by the Planck Collaboration around the superclusters and detect the {tSZ} signal at a significance of 6.4 sigma. We further search for an intercluster component of gas in the superclusters. For this, we remove the intracluster gas in the superclusters by masking all galaxy groups/clusters detected by the Planck {tSZ}, {ROSAT} X-ray, and {SDSS} optical surveys down to a total mass of 10{\textasciicircum}13 Msun. We report the first detection of intercluster gas in superclusters with y = (3.5 +- 1.4) * 10{\textasciicircum}(-8) at a significance of 2.5 sigma. Assuming a simple isothermal and flat density distribution of intercluster gas over superclusters, the estimated baryon density is (Omega\_gas / Omega\_b) * (T\_e/(8*10{\textasciicircum}6 K)) = 0.067 +- 0.006 +- 0.025. This quantity is inversely proportional to the temperature, therefore taking values from simulations and observations, we find that the gas density in superclusters may account for 17 - 52 \% of missing baryons at low redshifts. A better understanding of the physical state of gas in the superclusters is required to accurately estimate the contribution of our measurements to missing baryons.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0004-6361, 1432-0746}
+      \field{journaltitle}{Astronomy \& Astrophysics}
+      \field{month}{5}
+      \field{shortjournal}{A\&A}
+      \field{title}{Detection of intercluster gas in superclusters using the thermal Sunyaev-Zel'dovich effect}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{625}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{A67}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/201833413
+      \endverb
+      \verb{eprint}
+      \verb 1805.04555 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\GTUMYBXW\\Tanimura et al. - 2019 - Detection of intercluster gas in superclusters usi.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\KYPBPSTM\\1805.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1805.04555
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1805.04555
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{tumlinson_circumgalactic_2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d1dd89d15e875dc8659c42052220ae56}{%
+           family={Tumlinson},
+           familyi={T\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27732944acf4c7392c6917cf72b424c9}{%
+           family={Peeples},
+           familyi={P\bibinitperiod},
+           given={Molly\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ff8b86d20e4b99762c514ab758cb774}{%
+           family={Werk},
+           familyi={W\bibinitperiod},
+           given={Jessica\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a337790e5849b72177fb455b47475d86}
+      \strng{fullhash}{7071fefd63f7bc7c271f4e700c06f6ed}
+      \strng{bibnamehash}{7071fefd63f7bc7c271f4e700c06f6ed}
+      \strng{authorbibnamehash}{7071fefd63f7bc7c271f4e700c06f6ed}
+      \strng{authornamehash}{a337790e5849b72177fb455b47475d86}
+      \strng{authorfullhash}{7071fefd63f7bc7c271f4e700c06f6ed}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The gas surrounding galaxies outside their disks or {ISM} and inside their virial radii is known as the “circumgalactic medium” ({CGM}). In recent years this component of galaxies has assumed an important role in our understanding of galaxy evolution owing to rapid advances in observational access to this diﬀuse, nearly invisible material. Observations and simulations of this component of galaxies suggest that it is a multiphase medium characterized by rich dynamics and complex ionization states. The {CGM} is a source for a galaxy’s star-forming fuel, the venue for galactic feedback and recycling, and perhaps the key regulator of the galactic gas supply. We review our evolving knowledge of the {CGM} with emphasis on its mass, dynamical state, and co-evolution with galaxies. Observations from all redshifts and from across the electromagnetic spectrum indicate that {CGM} gas has a key role in galaxy evolution. We summarize the state of this ﬁeld and pose unanswered questions for future research.}
+      \field{day}{18}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0066-4146, 1545-4282}
+      \field{journaltitle}{Annual Review of Astronomy and Astrophysics}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{1}
+      \field{shortjournal}{Annu. Rev. Astron. Astrophys.}
+      \field{title}{The Circumgalactic Medium}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{389\bibrangedash 432}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1146/annurev-astro-091916-055240
+      \endverb
+      \verb{eprint}
+      \verb 1709.09180 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb circumgalactic_medium.pdf:C\:\\Users\\peakc\\Documents\\Projects\\t.ghosh\\circumgalactic_medium.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1709.09180
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1709.09180
+      \endverb
+      \keyw{Astrophysics - Astrophysics of Galaxies}
+    \endentry
+    \entry{van_de_weygaert_void_2011}{incollection}{}
+      \name{author}{12}{ul=2}{%
+        {{un=0,uniquepart=base,hash=0437f297c96b2f19066e9832993b6c28}{%
+           family={Weygaert},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=fa0c039a4a30e6c81f3c9ce1e9146644}{%
+           family={Kreckel},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7fdef6ef88ebb7ba1c063c03c53c1fa}{%
+           family={Platen},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=218308a627edbe90bdda534529f4d504}{%
+           family={Beygu},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9db3e410c580a244880a7ce4067407a4}{%
+           family={Gorkom},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=dfc37595130f6ffabc44fe70773d5075}{%
+           family={Hulst},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=c37adf7a5cf8b35559cb84d80851d991}{%
+           family={Aragon-Calvo},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd71b2b0e5f00721bd0cdf4a474674df}{%
+           family={Peebles},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi J.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ea191ac6dfd9ba27007bbc22a50fc05}{%
+           family={Jarrett},
+           familyi={J\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=143d3c4601e4306de287e7dbac58bf7b}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=843518aef35c1e41f4bc685726397f2e}{%
+           family={Kovac},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fea37ef4a47fc77adc2bdb997177d381}{%
+           family={Yip},
+           familyi={Y\bibinitperiod},
+           given={C.-W.},
+           giveni={C\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fbbed4871641b9ed605de4da0dda6304}
+      \strng{fullhash}{c395c29c092cd9c3cedf95a46c72fe5b}
+      \strng{bibnamehash}{c395c29c092cd9c3cedf95a46c72fe5b}
+      \strng{authorbibnamehash}{c395c29c092cd9c3cedf95a46c72fe5b}
+      \strng{authornamehash}{fbbed4871641b9ed605de4da0dda6304}
+      \strng{authorfullhash}{c395c29c092cd9c3cedf95a46c72fe5b}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Void Galaxy Survey ({VGS}) is a multi-wavelength program to study \${\textbackslash}sim\$60 void galaxies. Each has been selected from the deepest interior regions of identified voids in the {SDSS} redshift survey on the basis of a unique geometric technique, with no a prior selection of intrinsic properties of the void galaxies. The project intends to study in detail the gas content, star formation history and stellar content, as well as kinematics and dynamics of void galaxies and their companions in a broad sample of void environments. It involves the {HI} imaging of the gas distribution in each of the {VGS} galaxies. Amongst its most tantalizing findings is the possible evidence for cold gas accretion in some of the most interesting objects, amongst which are a polar ring galaxy and a filamentary configuration of void galaxies. Here we shortly describe the scope of the {VGS} and the results of the full analysis of the pilot sample of 15 void galaxies.}
+      \field{eprinttype}{arxiv}
+      \field{title}{The Void Galaxy Survey}
+      \field{urlday}{3}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{17\bibrangedash 24}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-3-642-20285-8_3
+      \endverb
+      \verb{eprint}
+      \verb 1101.4187 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\L6KP2YLS\\van de Weygaert et al. - 2011 - The Void Galaxy Survey.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\ZHUHU2J7\\1101.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1101.4187
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1101.4187
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+    \entry{van_de_weygaert_cosmic_2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a83107a581d06a042060ef66cdc6a13e}{%
+           family={Weygaert},
+           familyi={W\bibinitperiod},
+           given={Rien},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima de},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=ae4d7834f1e3ceae586e8ce56f2cf3d4}{%
+           family={Platen},
+           familyi={P\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7767f953f7285e342f57aa5de4565be7}
+      \strng{fullhash}{7767f953f7285e342f57aa5de4565be7}
+      \strng{bibnamehash}{7767f953f7285e342f57aa5de4565be7}
+      \strng{authorbibnamehash}{7767f953f7285e342f57aa5de4565be7}
+      \strng{authornamehash}{7767f953f7285e342f57aa5de4565be7}
+      \strng{authorfullhash}{7767f953f7285e342f57aa5de4565be7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this review we discuss several aspects of Cosmic Voids. Voids are a major component of the large scale distribution of matter and galaxies in the Universe. They are of instrumental importance for understanding the emergence of the Cosmic Web. Their relatively simple shape and structure makes them into useful tools for extracting the value of a variety cosmic parameters, possibly including even that of the influence of dark energy. Perhaps most promising and challenging is the issue of the galaxies found within their realm. Not only does the pristine environment of voids provide a promising testing ground for assessing the role of environment on the formation and evolution of galaxies, the dearth of dwarf galaxies may even represent a serious challenge to the standard view of cosmic structure formation.}
+      \field{eprinttype}{arxiv}
+      \field{issn}{2010-1945, 2010-1945}
+      \field{journaltitle}{International Journal of Modern Physics: Conference Series}
+      \field{month}{1}
+      \field{shortjournal}{Int. J. Mod. Phys. Conf. Ser.}
+      \field{shorttitle}{Cosmic Voids}
+      \field{title}{Cosmic Voids: structure, dynamics and galaxies}
+      \field{urlday}{1}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{01}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{41\bibrangedash 66}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1142/S2010194511000092
+      \endverb
+      \verb{eprint}
+      \verb 0912.2997 [astro-ph]
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\peakc\\Zotero\\storage\\N2PIH785\\van de Weygaert and Platen - 2011 - Cosmic Voids structure, dynamics and galaxies.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\peakc\\Zotero\\storage\\ILE6PP9W\\0912.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/0912.2997
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/0912.2997
+      \endverb
+      \keyw{Astrophysics - Cosmology and Nongalactic Astrophysics}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
