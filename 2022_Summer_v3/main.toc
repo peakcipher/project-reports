@@ -1,7 +1,12 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Cosmic Voids}{1}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Methods}{2}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Results and Discussion}{3}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Summary and Conclusions}{4}{chapter.4}%
-\contentsline {chapter}{Appendix \numberline {A}(Optional)}{5}{appendix.1.A}%
+\contentsline {section}{\numberline {1.2}Void Galaxies}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Cosmic Microwave Background}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}The Sunyaev-Zeldovich Effect and the Circumgalactic Medium}{3}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Methods}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Distance Measures in Cosmology}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Implementation}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The code}{5}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Results and Discussion}{7}{chapter.3}%
+\contentsline {chapter}{Bibliography}{11}{chapter*.2}%

@@ -91,7 +91,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>999</bcf:value>
+      <bcf:value>5</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -99,7 +99,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>999</bcf:value>
+      <bcf:value>5</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -199,7 +199,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useafterword</bcf:key>
@@ -321,7 +321,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>999</bcf:value>
+      <bcf:value>5</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
@@ -329,7 +329,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>999</bcf:value>
+      <bcf:value>5</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -409,7 +409,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useafterword</bcf:key>
@@ -632,9 +632,6 @@
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">subentry</bcf:option>
     <bcf:option datatype="boolean">articletitle</bcf:option>
-    <bcf:option datatype="boolean">chaptertitle</bcf:option>
-    <bcf:option datatype="boolean">pageranges</bcf:option>
-    <bcf:option datatype="boolean">biblabel</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -2353,8 +2350,26 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">reference.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">birkinshaw_sunyaev-zeldovich_1999</bcf:citekey>
-    <bcf:citekey order="2" intorder="1" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">van_de_weygaert_cosmic_2011</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">dekel_omega_1994</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">martel_simulation_1989</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">ryden_voids_1996</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">park_void_2007</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">lee_constraining_2009</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">platen_alignment_2008</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">singari_detection_2018</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">beygu_void_2017</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">kreckel_only_2011</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">pan_cosmic_2012</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">pan_cosmic_2012</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">sunyaev_small-scale_1970</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">planck_collaboration_planck_2013</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">pan_cosmic_2012</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">pan_cosmic_2012</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">pan_cosmic_2012</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">hurier_milca_2013</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">remazeilles_cmb_2011</bcf:citekey>
+    <bcf:citekey order="20" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

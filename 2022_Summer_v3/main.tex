@@ -18,12 +18,51 @@
 \usepackage{epsfig}
 \usepackage{float}
 \usepackage{rotating}
+
 \usepackage{fancyhdr}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
 \usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=blue,
+	citecolor = blue,      
+	urlcolor=cyan,
+}
+\usepackage{siunitx}
+\DeclareSIUnit \h {\mbox{$h$}}
+\DeclareSIUnit \parsec {pc}
 \usepackage[
 backend=biber,
 citestyle=authoryear,
-bibstyle=chem-rsc,
+bibstyle=science,
 ]{biblatex}
 \AtEveryCitekey{\clearfield{title}}
 \addbibresource{reference.bib}
@@ -54,11 +93,11 @@ bibstyle=chem-rsc,
 \include{title}
 \pagenumbering{roman}
 \baselineskip=20pt
-\include{dedicate}
+%\include{dedicate}
 \include{declaration}
 %\include{stat}
 %\include{cert1}
-\include{acknowledgement}
+%\include{acknowledgement}
 \include{abstract}
 \clearpage
 \fancyfoot{}      % Delete current footer settings
@@ -73,20 +112,21 @@ bibstyle=chem-rsc,
 \baselineskip=12pt
 \tableofcontents
 \clearpage
-\listoffigures
+%\listoffigures
 \clearpage
-\listoftables 
+%\listoftables 
 \clearpage
 \pagenumbering{arabic}
-\baselineskip=24pt
+\baselineskip=15pt
 \include{chap1}
 \include{chap2}
 \include{chap3}
-\include{chap4}
-\include{app1}
+%\include{chap4}
+%\include{app1}
 %\include{reference}
 %}
 \nocite{*}
 
 \printbibliography
+\addcontentsline{toc}{chapter}{Bibliography}
 \end{document}

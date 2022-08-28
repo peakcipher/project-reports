@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>main.bcf</file>
@@ -56,7 +56,7 @@
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
       <file>numeric-comp.bbx</file>
-      <file>chem-rsc.bbx</file>
+      <file>science.bbx</file>
       <file>authoryear.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
