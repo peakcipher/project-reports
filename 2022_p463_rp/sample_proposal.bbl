@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+\makeatletter
+\relax
+\def\mn@urlcharsother{\let\do\@makeother \do\$\do\&\do\#\do\^\do\_\do\%\do\~}
+\def\mn@doi{\begingroup\mn@urlcharsother \@ifnextchar [ {\mn@doi@}
+  {\mn@doi@[]}}
+\def\mn@doi@[#1]#2{\def\@tempa{#1}\ifx\@tempa\@empty \href
+  {http://dx.doi.org/#2} {doi:#2}\else \href {http://dx.doi.org/#2} {#1}\fi
+  \endgroup}
+\def\mn@eprint#1#2{\mn@eprint@#1:#2::\@nil}
+\def\mn@eprint@arXiv#1{\href {http://arxiv.org/abs/#1} {{\tt arXiv:#1}}}
+\def\mn@eprint@dblp#1{\href {http://dblp.uni-trier.de/rec/bibtex/#1.xml}
+  {dblp:#1}}
+\def\mn@eprint@#1:#2:#3:#4\@nil{\def\@tempa {#1}\def\@tempb {#2}\def\@tempc
+  {#3}\ifx \@tempc \@empty \let \@tempc \@tempb \let \@tempb \@tempa \fi \ifx
+  \@tempb \@empty \def\@tempb {arXiv}\fi \@ifundefined
+  {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
+  mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
+
+\bibitem[\protect\citeauthoryear{{Beck}, {Chamandy}, {Elson}  \&
+  {Blackman}}{{Beck} et~al.}{2019}]{Beck+19}
+{Beck} R.,  {Chamandy} L.,  {Elson} E.,   {Blackman} E.~G.,  2019, \mn@doi
+  [Galaxies] {10.3390/galaxies8010004}, \href
+  {https://ui.adsabs.harvard.edu/abs/2019Galax...8....4B} {8, 4}
+
+\bibitem[\protect\citeauthoryear{{Fletcher}, {Beck}, {Shukurov}, {Berkhuijsen}
+  \& {Horellou}}{{Fletcher} et~al.}{2011}]{Fletcher+11}
+{Fletcher} A.,  {Beck} R.,  {Shukurov} A.,  {Berkhuijsen} E.~M.,   {Horellou}
+  C.,  2011, \mn@doi [\mnras] {10.1111/j.1365-2966.2010.18065.x}, \href
+  {http://adsabs.harvard.edu/abs/2011MNRAS.412.2396F} {412, 2396}
+
+\bibitem[\protect\citeauthoryear{{Gent}, {Mac Low}, {K{\"a}pyl{\"a}}  \&
+  {Singh}}{{Gent} et~al.}{2021}]{Gent+21}
+{Gent} F.~A.,  {Mac Low} M.-M.,  {K{\"a}pyl{\"a}} M.~J.,   {Singh} N.~K.,
+  2021, \mn@doi [\apjl] {10.3847/2041-8213/abed59}, \href
+  {https://ui.adsabs.harvard.edu/abs/2021ApJ...910L..15G} {910, L15}
+
+\bibitem[\protect\citeauthoryear{{Pakmor}, {Guillet}, {Pfrommer}, {G{\'o}mez},
+  {Grand}, {Marinacci}, {Simpson}  \& {Springel}}{{Pakmor}
+  et~al.}{2018}]{Pakmor+18}
+{Pakmor} R.,  {Guillet} T.,  {Pfrommer} C.,  {G{\'o}mez} F.~A.,  {Grand} R.
+  J.~J.,  {Marinacci} F.,  {Simpson} C.~M.,   {Springel} V.,  2018, \mn@doi
+  [\mnras] {10.1093/mnras/sty2601}, \href
+  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.4410P} {481, 4410}
+
+\bibitem[\protect\citeauthoryear{Shukurov \& Subramanian}{Shukurov \&
+  Subramanian}{2021}]{Shukurov+Subramanian21}
+Shukurov A.,  Subramanian K.,  2021, Astrophysical Magnetic Fields: From
+  Galaxies to the Early Universe.
+Cambridge Astrophysics, Cambridge University Press,
+  \mn@doi{10.1017/9781139046657}
+
+\makeatother
+\end{thebibliography}
