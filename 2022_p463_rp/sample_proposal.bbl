@@ -17,38 +17,40 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
-\bibitem[\protect\citeauthoryear{{Beck}, {Chamandy}, {Elson}  \&
-  {Blackman}}{{Beck} et~al.}{2019}]{Beck+19}
-{Beck} R.,  {Chamandy} L.,  {Elson} E.,   {Blackman} E.~G.,  2019, \mn@doi
-  [Galaxies] {10.3390/galaxies8010004}, \href
-  {https://ui.adsabs.harvard.edu/abs/2019Galax...8....4B} {8, 4}
+\bibitem[\protect\citeauthoryear{Lindner, Einasto, Einasto, Freudling, Fricke
+  \& Tago}{Lindner et~al.}{1995}]{lindner_structure_1995}
+Lindner U.,  Einasto J.,  Einasto M.,  Freudling W.,  Fricke K.,   Tago E.,
+  1995, The {Structure} of {Supervoids} -- {I}: {Void} {Hierarchy} in the
+  {Northern} {Local} {Supervoid}, \mn@doi{10.48550/arXiv.astro-ph/9503044},
+  \url {http://arxiv.org/abs/astro-ph/9503044}
 
-\bibitem[\protect\citeauthoryear{{Fletcher}, {Beck}, {Shukurov}, {Berkhuijsen}
-  \& {Horellou}}{{Fletcher} et~al.}{2011}]{Fletcher+11}
-{Fletcher} A.,  {Beck} R.,  {Shukurov} A.,  {Berkhuijsen} E.~M.,   {Horellou}
-  C.,  2011, \mn@doi [\mnras] {10.1111/j.1365-2966.2010.18065.x}, \href
-  {http://adsabs.harvard.edu/abs/2011MNRAS.412.2396F} {412, 2396}
+\bibitem[\protect\citeauthoryear{Pan, Vogeley, Hoyle, Choi  \& Park}{Pan
+  et~al.}{2012}]{pan_cosmic_2012}
+Pan D.~C.,  Vogeley M.~S.,  Hoyle F.,  Choi Y.-Y.,   Park C.,  2012, \mn@doi
+  [Monthly Notices of the Royal Astronomical Society]
+  {10.1111/j.1365-2966.2011.20197.x}, 421, 926
 
-\bibitem[\protect\citeauthoryear{{Gent}, {Mac Low}, {K{\"a}pyl{\"a}}  \&
-  {Singh}}{{Gent} et~al.}{2021}]{Gent+21}
-{Gent} F.~A.,  {Mac Low} M.-M.,  {K{\"a}pyl{\"a}} M.~J.,   {Singh} N.~K.,
-  2021, \mn@doi [\apjl] {10.3847/2041-8213/abed59}, \href
-  {https://ui.adsabs.harvard.edu/abs/2021ApJ...910L..15G} {910, L15}
+\bibitem[\protect\citeauthoryear{Sutter, Lavaux, Wandelt  \& Weinberg}{Sutter
+  et~al.}{2013}]{sutter_response_2013}
+Sutter P.~M.,  Lavaux G.,  Wandelt B.~D.,   Weinberg D.~H.,  2013, A response
+  to {arXiv}:1310.2791: {A} self-consistent public catalogue of voids and
+  superclusters in the {SDSS} {Data} {Release} 7 galaxy surveys,
+  \mn@doi{10.48550/arXiv.1310.5067}, \url {http://arxiv.org/abs/1310.5067}
 
-\bibitem[\protect\citeauthoryear{{Pakmor}, {Guillet}, {Pfrommer}, {G{\'o}mez},
-  {Grand}, {Marinacci}, {Simpson}  \& {Springel}}{{Pakmor}
-  et~al.}{2018}]{Pakmor+18}
-{Pakmor} R.,  {Guillet} T.,  {Pfrommer} C.,  {G{\'o}mez} F.~A.,  {Grand} R.
-  J.~J.,  {Marinacci} F.,  {Simpson} C.~M.,   {Springel} V.,  2018, \mn@doi
-  [\mnras] {10.1093/mnras/sty2601}, \href
-  {https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.4410P} {481, 4410}
+\bibitem[\protect\citeauthoryear{Tavasoli}{Tavasoli}{2021}]{tavasoli_void_2021}
+Tavasoli S.,  2021, \mn@doi [The Astrophysical Journal Letters]
+  {10.3847/2041-8213/ac1357}, 916, L24
 
-\bibitem[\protect\citeauthoryear{Shukurov \& Subramanian}{Shukurov \&
-  Subramanian}{2021}]{Shukurov+Subramanian21}
-Shukurov A.,  Subramanian K.,  2021, Astrophysical Magnetic Fields: From
-  Galaxies to the Early Universe.
-Cambridge Astrophysics, Cambridge University Press,
-  \mn@doi{10.1017/9781139046657}
+\bibitem[\protect\citeauthoryear{Thompson \& Gregory}{Thompson \&
+  Gregory}{2011}]{thompson_historical_2011}
+Thompson L.~A.,  Gregory S.~A.,  2011, An {Historical} {View}: {The}
+  {Discovery} of {Voids} in the {Galaxy} {Distribution}, \url
+  {http://arxiv.org/abs/1109.1268}
+
+\bibitem[\protect\citeauthoryear{van~de Weygaert \& Platen}{van~de Weygaert \&
+  Platen}{2011}]{van_de_weygaert_cosmic_2011}
+van~de Weygaert R.,  Platen E.,  2011, \mn@doi [International Journal of Modern
+  Physics: Conference Series] {10.1142/S2010194511000092}, 01, 41
 
 \makeatother
 \end{thebibliography}
