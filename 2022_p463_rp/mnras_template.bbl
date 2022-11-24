@@ -17,18 +17,129 @@
   {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
   mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
 
-\bibitem[\protect\citeauthoryear{{\VAN{Dijk}{Van}{van}}~Dijk}{{\VAN{Dijk}{Van}{van}}~Dijk}{1902}]{vanDijk1902}
-{\VAN{Dijk}{Van}{van}}~Dijk T.,  1902, QJRAS, 2, 202
+\bibitem[\protect\citeauthoryear{Aragon-Calvo \& Szalay}{Aragon-Calvo \&
+  Szalay}{2013}]{aragon-calvo_hierarchical_2013}
+Aragon-Calvo M.~A.,  Szalay A.~S.,  2013, \mn@doi [Monthly Notices of the Royal
+  Astronomical Society] {10.1093/mnras/sts281}, 428, 3409
 
-\bibitem[\protect\citeauthoryear{Fournier}{Fournier}{1901}]{Fournier1901}
-Fournier P.,  1901, ApJ, 1, 101
+\bibitem[\protect\citeauthoryear{Bond, Kofman  \& Pogosyan}{Bond
+  et~al.}{1996}]{bond_how_1996}
+Bond J.~R.,  Kofman L.,   Pogosyan D.,  1996, \mn@doi [Nature]
+  {10.1038/380603a0}, 380, 603
 
-\bibitem[\protect\citeauthoryear{{\VAN{Guarde}{De la}{de
-  la}}~Guarde}{{\VAN{Guarde}{De la}{de la}}~Guarde}{1904}]{delaGuarde1904}
-{\VAN{Guarde}{De la}{de la}}~Guarde S.,  1904, MNRAS, 4, 404
+\bibitem[\protect\citeauthoryear{Chincarini \& Rood}{Chincarini \&
+  Rood}{1975}]{chincarini_size_1975}
+Chincarini G.,  Rood H.~J.,  1975, \mn@doi [Nature] {10.1038/257294a0}, 257,
+  294
 
-\bibitem[\protect\citeauthoryear{{\VAN{Laguarde}{De}{de}}~Laguarde}{{\VAN{Laguarde}{De}{de}}~Laguarde}{1903}]{deLaguarde1903}
-{\VAN{Laguarde}{De}{de}}~Laguarde A.,  1903, Nat, 3, 303
+\bibitem[\protect\citeauthoryear{Colless et~al.,}{Colless
+  et~al.}{2001}]{colless_2df_2001}
+Colless M.,  et~al., 2001, \mn@doi [Monthly Notices of the Royal Astronomical
+  Society] {10.1046/j.1365-8711.2001.04902.x}, 328, 1039
+
+\bibitem[\protect\citeauthoryear{Dekel \& Rees}{Dekel \&
+  Rees}{1994}]{dekel_omega_1994}
+Dekel A.,  Rees M.~J.,  1994, \mn@doi [The Astrophysical Journal]
+  {10.1086/187197}, 422, L1
+
+\bibitem[\protect\citeauthoryear{Einasto et~al.,}{Einasto
+  et~al.}{2011}]{einasto_wavelet_2011}
+Einasto J.,  et~al., 2011, \mn@doi [A\&A] {10.1051/0004-6361/201016070}, 531,
+  A75
+
+\bibitem[\protect\citeauthoryear{Friedman}{Friedman}{1922}]{friedman_uber_1922}
+Friedman A.,  1922, \mn@doi [Z. Physik] {10.1007/BF01332580}, 10, 377
+
+\bibitem[\protect\citeauthoryear{Furlanetto, Oh  \& Briggs}{Furlanetto
+  et~al.}{2006}]{furlanetto_cosmology_2006}
+Furlanetto S.,  Oh S.~P.,   Briggs F.,  2006, \mn@doi [Physics Reports]
+  {10.1016/j.physrep.2006.08.002}, 433, 181
+
+\bibitem[\protect\citeauthoryear{Gregory, Thompson  \& Tifft}{Gregory
+  et~al.}{1978}]{gregory_perseuspisces_1978}
+Gregory S.~A.,  Thompson L.~A.,   Tifft W.~G.,  1978, 10, 622
+
+\bibitem[\protect\citeauthoryear{Hogg}{Hogg}{2000}]{hogg_distance_2000}
+Hogg D.~W.,  2000, Technical Report arXiv:astro-ph/9905116, Distance measures
+  in cosmology, \url {http://arxiv.org/abs/astro-ph/9905116}.
+arXiv, \url {http://arxiv.org/abs/astro-ph/9905116}
+
+\bibitem[\protect\citeauthoryear{Icke}{Icke}{1984}]{icke_voids_1984}
+Icke V.,  1984, \mn@doi [Monthly Notices of the Royal Astronomical Society]
+  {10.1093/mnras/206.1.1P}, 206, 1P
+
+\bibitem[\protect\citeauthoryear{Kreckel et~al.,}{Kreckel
+  et~al.}{2011}]{kreckel_only_2011}
+Kreckel K.,  et~al., 2011, \mn@doi [The Astronomical Journal]
+  {10.1088/0004-6256/141/1/4}, 141, 4
+
+\bibitem[\protect\citeauthoryear{Kreckel, Platen, Aragón-Calvo, van Gorkom,
+  van~de Weygaert, van~der Hulst  \& Beygu}{Kreckel
+  et~al.}{2012}]{kreckel_void_2012}
+Kreckel K.,  Platen E.,  Aragón-Calvo M.~A.,  van Gorkom J.~H.,  van~de
+  Weygaert R.,  van~der Hulst J.~M.,   Beygu B.,  2012, \mn@doi [The
+  Astronomical Journal] {10.1088/0004-6256/144/1/16}, 144, 16
+
+\bibitem[\protect\citeauthoryear{Kreckel, van Gorkom, Beygu, van~de Weygaert,
+  van~der Hulst, Aragon-Calvo  \& Peletier}{Kreckel
+  et~al.}{2014}]{kreckel_void_2014}
+Kreckel K.,  van Gorkom J.~H.,  Beygu B.,  van~de Weygaert R.,  van~der Hulst
+  J.~M.,  Aragon-Calvo M.~A.,   Peletier R.~F.,  2014, \mn@doi [Proc. IAU]
+  {10.1017/S1743921316010644}, 11, 591
+
+\bibitem[\protect\citeauthoryear{Libeskind et~al.,}{Libeskind
+  et~al.}{2018}]{libeskind_tracing_2018}
+Libeskind N.~I.,  et~al., 2018, \mn@doi [Monthly Notices of the Royal
+  Astronomical Society] {10.1093/mnras/stx1976}, 473, 1195
+
+\bibitem[\protect\citeauthoryear{Martel \& Wasserman}{Martel \&
+  Wasserman}{1990}]{martel_simulation_1990}
+Martel H.,  Wasserman I.,  1990, \mn@doi [The Astrophysical Journal]
+  {10.1086/168208}, 348, 1
+
+\bibitem[\protect\citeauthoryear{Morales \& Wyithe}{Morales \&
+  Wyithe}{2010}]{morales_reionization_2010}
+Morales M.~F.,  Wyithe J. S.~B.,  2010, \mn@doi [Annu. Rev. Astron. Astrophys.]
+  {10.1146/annurev-astro-081309-130936}, 48, 127
+
+\bibitem[\protect\citeauthoryear{Peebles}{Peebles}{1993}]{peebles_principles_1993}
+Peebles P. J.~E.,  1993, Principles of {Physical} {Cosmology}.
+Princeton University Press, \mn@doi{10.1515/9780691206721}, \url
+  {https://ui.adsabs.harvard.edu/abs/1993ppc..book.....P}
+
+\bibitem[\protect\citeauthoryear{Ryden \& Melott}{Ryden \&
+  Melott}{1996}]{ryden_voids_1996}
+Ryden B.~S.,  Melott A.~L.,  1996, \mn@doi [The Astrophysical Journal]
+  {10.1086/177857}, 470, 160
+
+\bibitem[\protect\citeauthoryear{Sahni, Sathyaprakah  \& Shandarin}{Sahni
+  et~al.}{1994}]{sahni_evolution_1994}
+Sahni V.,  Sathyaprakah B.~S.,   Shandarin S.~F.,  1994, \mn@doi [The
+  Astrophysical Journal] {10.1086/174464}, 431, 20
+
+\bibitem[\protect\citeauthoryear{Sheth \& van~de Weygaert}{Sheth \& van~de
+  Weygaert}{2004}]{sheth_hierarchy_2004}
+Sheth R.~K.,  van~de Weygaert R.,  2004, \mn@doi [Monthly Notices of the Royal
+  Astronomical Society] {10.1111/j.1365-2966.2004.07661.x}, 350, 517
+
+\bibitem[\protect\citeauthoryear{Tegmark et~al.,}{Tegmark
+  et~al.}{2004}]{tegmark_threedimensional_2004}
+Tegmark M.,  et~al., 2004, \mn@doi [ApJ] {10.1086/382125}, 606, 702
+
+\bibitem[\protect\citeauthoryear{Zeldovich, Einasto  \& Shandarin}{Zeldovich
+  et~al.}{1982}]{zeldovich_giant_1982}
+Zeldovich I.~B.,  Einasto J.,   Shandarin S.~F.,  1982, \mn@doi [Nature]
+  {10.1038/300407a0}, 300, 407
+
+\bibitem[\protect\citeauthoryear{van~de Weygaert}{van~de
+  Weygaert}{2014}]{van_de_weygaert_voids_2014}
+van~de Weygaert R.,  2014, \mn@doi [Proc. IAU] {10.1017/S1743921316010504}, 11,
+  493
+
+\bibitem[\protect\citeauthoryear{van~de Weygaert \& Platen}{van~de Weygaert \&
+  Platen}{2011}]{van_de_weygaert_cosmic_2011}
+van~de Weygaert R.,  Platen E.,  2011, \mn@doi [Int. J. Mod. Phys. Conf. Ser.]
+  {10.1142/S2010194511000092}, 01, 41
 
 \makeatother
 \end{thebibliography}

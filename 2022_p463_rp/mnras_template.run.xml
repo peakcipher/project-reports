@@ -41,13 +41,13 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>main.bcf</file>
+      <file>mnras_template.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bbl</file>
+      <file>mnras_template.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -55,33 +55,28 @@
       <file>biblatex.def</file>
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
-      <file>numeric-comp.bbx</file>
-      <file>science.bbx</file>
-      <file>authoryear.cbx</file>
+      <file>numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>main</infile>
+      <infile>mnras_template</infile>
     </cmdline>
     <input>
-      <file>main.bcf</file>
+      <file>mnras_template.bcf</file>
     </input>
     <output>
-      <file>main.bbl</file>
+      <file>mnras_template.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>main.bbl</file>
+      <file>mnras_template.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>main.bcf</file>
-    </requires>
-    <requires type="editable">
-      <file>reference.bib</file>
+      <file>mnras_template.bcf</file>
     </requires>
   </external>
 </requests>
