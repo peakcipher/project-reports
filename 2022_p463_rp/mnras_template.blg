@@ -5,52 +5,44 @@ The style file: mnras.bst
 Database file #1: p463.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-"ArXiv e-prints" is a string literal, `journal' is a missing field
----they aren't the same literal types for entry gregory_perseuspisces_1978
-while executing---line 1822 of file mnras.bst
-Warning--empty journal in gregory_perseuspisces_1978
-"ArXiv e-prints" is a string literal, `journal' is a missing field
----they aren't the same literal types for entry gregory_perseuspisces_1978
-while executing---line 1822 of file mnras.bst
-You've used 25 entries,
+You've used 80 entries,
             2881 wiz_defined-function locations,
-            930 strings with 14598 characters,
-and the built_in function-call counts, 11213 in all, are:
-= -- 926
-> -- 779
-< -- 67
-+ -- 356
-- -- 100
-* -- 1350
-:= -- 1768
+            1342 strings with 32979 characters,
+and the built_in function-call counts, 37490 in all, are:
+= -- 3099
+> -- 2731
+< -- 224
++ -- 1203
+- -- 398
+* -- 4470
+:= -- 5974
 add.period$ -- 0
-call.type$ -- 25
-change.case$ -- 50
-chr.to.int$ -- 25
-cite$ -- 26
-duplicate$ -- 563
-empty$ -- 567
-format.name$ -- 192
-if$ -- 1930
+call.type$ -- 80
+change.case$ -- 160
+chr.to.int$ -- 80
+cite$ -- 80
+duplicate$ -- 1813
+empty$ -- 1791
+format.name$ -- 674
+if$ -- 6486
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 25
-newline$ -- 90
-num.names$ -- 170
-pop$ -- 110
+missing$ -- 81
+newline$ -- 256
+num.names$ -- 580
+pop$ -- 332
 preamble$ -- 1
-purify$ -- 100
+purify$ -- 320
 quote$ -- 0
-skip$ -- 340
+skip$ -- 1116
 stack$ -- 0
-substring$ -- 615
-swap$ -- 261
-text.length$ -- 101
+substring$ -- 2134
+swap$ -- 934
+text.length$ -- 322
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 222
-warning$ -- 1
-while$ -- 186
+type$ -- 714
+warning$ -- 0
+while$ -- 618
 width$ -- 0
-write$ -- 266
-(There were 2 error messages)
+write$ -- 818
